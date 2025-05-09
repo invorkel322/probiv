@@ -138,6 +138,8 @@ description: Боты и сервисы для деанона — пробива
 
 [Discord Sensor](https://telegram.me/discordsensorbot) — можно быстро получить информацию о Дискорд аккаунтах, такую как как аватары, серверы, друзья и никнеймы.
 
+[PimEyes](https://telegram.me/pimeyesbot) — поиск по лицу — Найдите человека по фотографии лица в соцсетях (Facebook, Twitter, Instagram и других).
+
 [InstaBot](https://telegram.me/InstaBot) — скачивает любые медиафайлы из Instagram.
 
 [SaveYoutubeBot](https://t.me/SaveYoutubeBot) — ищет и скачивает ролики из YouTube.
